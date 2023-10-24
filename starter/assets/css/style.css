@@ -48,7 +48,7 @@ a {
 }
 
 p {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .hero {
@@ -161,6 +161,7 @@ p {
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 80px;
   background-color: #0072bb;
   color: #ffffff;
   border-radius: 5px;
@@ -183,17 +184,17 @@ p {
 
 .search-engine-optimization h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 50px;
 }
 
 .online-reputation-management h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 50px;
 }
 
 .social-media-marketing h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 50px;
 }
 
 footer {
